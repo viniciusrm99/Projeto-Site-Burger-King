@@ -417,7 +417,6 @@ a.voltarTopo {
 
 #linkTopo {
 	text-decoration: none;
-	color: red;
 	padding: 10px;
 	position: fixed;
 	right: 10px;
@@ -425,6 +424,7 @@ a.voltarTopo {
 	box-shadow: 3px 3px 10px #857F7F;
 	border-radius: 100%;
 	cursor: pointer;
+	width: 20px;
 }
 
 #linkTopo:hover {
