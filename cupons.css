@@ -217,6 +217,13 @@ h2.h2Aviso {
 	line-height: 20px;
 }
 
+.h2Padrao {
+	color: #663311;
+	font-weight: 900;
+	font-size: 45px;
+	text-align: center;
+}
+
 footer {
 	width: 940px;
 	background: #542414;
@@ -383,7 +390,7 @@ h3 {
 
 a.voltarTopo {
 	text-decoration: none;
-	color: white;
+	color: yellow;
 	font-size: 10px;
 	background: red;
 	padding: 5px 10px;
@@ -436,4 +443,15 @@ h5 {
 
 * {
 	scroll-behavior: smooth;
+}
+
+.imgcupom {
+
+	width: 100%;
+	text-align: center;
+
+}
+
+.imgcupom:hover {
+	width: 230px;
 }
