@@ -35,7 +35,7 @@ No meu próximo projeto, pretendo explorar:
 
 ## 🎨 Confira o Resultado Final:
 
-Dê uma olhada no meu projeto [aqui](https://viniciusrm99.github.io/Projeto_burger_king/)!
+Dê uma olhada no meu projeto [aqui](https://viniciusrm99.github.io/Projeto-Site-Burger-King/)!
 
 Espero que gostem tanto quanto eu gostei de criar! Vamos continuar aprendendo e nos divertindo nesse mundo incrível do desenvolvimento web!
 
